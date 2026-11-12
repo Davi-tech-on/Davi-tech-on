@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Davi 👋
 
-<!--
-**Davi-tech-on/Davi-tech-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infraestrutura de TI + Desenvolvimento Full Stack** · Eusébio, CE
 
-Here are some ideas to get you started:
+Trabalho com monitoramento, redes e sistemas web: mantenho a TI no ar e construo as ferramentas que a equipe usa no dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu uso no trabalho
+- **Infraestrutura:** Zabbix · Grafana · pfSense · Linux · Active Directory · Proxmox · Docker
+- **Desenvolvimento:** PHP · MySQL · Git
+- **Outros:** Cloudflare · Segurança web (HTTPS, CSP) · Automação e APIs
+
+## Conhecimento básico (em estudo)
+- JavaScript · Python
+- Jogos: C# (Unity) · Luau (Roblox Studio)
+
+## O que já fiz
+- Monitoramento de links WAN de várias filiais, com alertas em segundos
+- Sistemas internos (inventário, chamados, checklist em PWA) com permissões por função
+- Migração de MySQL com plano de retorno testado
+- Integrações com WhatsApp e automação de rotinas
+- Um jogo de pintura em grade no Roblox, ainda em desenvolvimento
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/davicrisostomo

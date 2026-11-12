@@ -6,7 +6,7 @@ Trabalho com monitoramento, redes e sistemas web: mantenho a TI no ar e construo
 
 ## O que eu uso no trabalho
 - **Infraestrutura:** Zabbix · Grafana · pfSense · Linux · Active Directory · Proxmox · Docker
-- **Desenvolvimento:** PHP · MySQL · Git
+- **Desenvolvimento:** PHP · Node.js · MySQL · Git
 - **Outros:** Cloudflare · Segurança web (HTTPS, CSP) · Automação e APIs
 
 ## Conhecimento básico (em estudo)
